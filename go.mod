@@ -1,1 +1,1 @@
-module protobufSSO
+module github.com/VoRaX00/protoSSO
